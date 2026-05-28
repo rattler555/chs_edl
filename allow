@@ -29,3 +29,4 @@ ocsp.digicert.com
 omniroot.com
 activation.sls.microsoft.com
 ocspx.digicert.com
+*.symcb.com
